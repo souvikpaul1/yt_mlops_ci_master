@@ -2,4 +2,10 @@ to run a streamlit
 streamlit runapp.py
 
 Streamlit is an open-source Python framework that makes it easy to build web application with python code.
- 
+
+ Steps for CI in github via git actions:
+
+ 1. Create a folder .github
+ 2. Create a folder workflows under github
+ 3. Create a ci.yaml file inside workflows
+ 4. 
