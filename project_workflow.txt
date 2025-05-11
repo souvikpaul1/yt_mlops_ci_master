@@ -1,0 +1,5 @@
+to run a streamlit 
+streamlit runapp.py
+
+Streamlit is an open-source Python framework that makes it easy to build web application with python code.
+ 
